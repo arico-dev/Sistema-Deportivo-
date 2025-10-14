@@ -11,9 +11,6 @@
 
 [Características](#-características-principales) •
 [Instalación](#-instalación) •
-[Uso](#-uso) •
-[Documentación](#-documentación) •
-[Contribuir](#-contribuir)
 
 </div>
 
