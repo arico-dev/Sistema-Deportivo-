@@ -90,14 +90,7 @@ if ($_POST) {
                 </button>
             </div>
             
-            <div class="text-center">
-                <div class="text-sm text-gray-600">
-                    <strong>Usuarios de prueba:</strong><br>
-                    Coordinador: admin / password<br>
-                    Entrenador: entrenador1 / password<br>
-                    Estudiante: estudiante1 / password
-                </div>
-            </div>
+            <!-- Bloque de usuarios de prueba eliminado refierase a .env -->
         </form>
     </div>
 
