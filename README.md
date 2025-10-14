@@ -122,3 +122,9 @@ Git
 git clone https://github.com/tu-usuario/sistema-deportivo.git
 cd sistema-deportivo
 \`\`\`
+
+## Autores ✒️
+
+
+* **Anthony Rico** - *Desarrollo* - [arico-dev](https://github.com/arico-dev)
+* **Felipe Zurita** - *Documentación* - [fzurita12](https://github.com/fzurita12)
