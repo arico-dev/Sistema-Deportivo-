@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏃 Sistema de Gestión Deportiva
+# 🏃 Sistema de Gestión Deportiva SportTrack
 
 ### Plataforma integral para la administración de actividades deportivas universitarias
 
