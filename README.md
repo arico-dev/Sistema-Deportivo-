@@ -128,3 +128,4 @@ cd sistema-deportivo
 
 * **Anthony Rico** - *Desarrollo* - [arico-dev](https://github.com/arico-dev)
 * **Felipe Zurita** - *Documentación* - [fzurita12](https://github.com/fzurita12)
+* **Matias Cerda** - *Documentacion* - [Mvtiass14](https://github.com/Mvtiass14)
