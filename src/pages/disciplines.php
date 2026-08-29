@@ -1,6 +1,6 @@
 <?php
-require_once 'config/session.php';
-require_once 'config/database.php';
+require_once '../config/session.php';
+require_once '../config/database.php';
 
 requireUserType(['coordinador']);
 
@@ -77,10 +77,10 @@ $disciplines = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </head>
 <body class="bg-gray-100">
     <div class="flex h-screen">
-        <?php include 'components/sidebar.php'; ?>
+        <?php include '../components/sidebar.php'; ?>
         
         <div class="flex-1 flex flex-col overflow-hidden">
-            <?php include 'components/header.php'; ?>
+            <?php include '../components/header.php'; ?>
             
             <main class="flex-1 overflow-x-hidden overflow-y-auto bg-gray-100">
                 <div class="max-w-7xl mx-auto py-6 sm:px-6 lg:px-8">

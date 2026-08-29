@@ -1,0 +1,27 @@
+# Logs
+*.log
+jmeter.log
+
+# Resultados de JMeter
+*.jtl
+
+# Archivos que no pertenecen al proyecto
+package.json
+reporte-jmeter/
+
+# Entorno y credenciales
+.env
+.env.*
+*.local
+
+# Dependencias (no se usan, pero por seguridad)
+node_modules/
+vendor/
+composer.lock
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
